@@ -29,8 +29,7 @@ public void setup() throws InterruptedException {
  @Test	
 public void getTitle() {
 String title =  driver.getTitle();
-System.out.println(title); 
-}
+ }
  
 @Test
 public void FreeCRMLogoTest() {
